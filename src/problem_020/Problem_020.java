@@ -1,7 +1,7 @@
 package problem_020;
 import java.math.BigInteger;
 
-public class problem_020 {
+public class Problem_020 {
 	public static BigInteger factorial(BigInteger fact) {
 		if (fact.equals(BigInteger.ZERO))
 			return BigInteger.ONE;
