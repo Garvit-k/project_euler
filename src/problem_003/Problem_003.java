@@ -8,7 +8,7 @@ public class Problem_003 {
 		for (long i = 2; i <= (long)Math.sqrt(n); i++) {
 			if (n % i == 0)
 				return i;
-			}
+		}
 		return n;
 	}
 	public static void main(String []args) {
