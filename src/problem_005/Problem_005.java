@@ -17,6 +17,6 @@ public class Problem_005 {
 				break;
 			++i;
 		}
-		System.out.println(i);
+		System.out.println(i); //232792560
 	}
 }
